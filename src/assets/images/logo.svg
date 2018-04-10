@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="229px" height="84px" viewBox="0 0 229 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.2 (51160) - http://www.bohemiancoding.com/sketch -->
+    <title>logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="8 19.7710765 14.0098872 15.9006504 27.759352 22.9132626 20.4224105 11.9228359 28.7123598 7 35.5098587 17.7431429 67 21.4858013 57.969729 27.6132829 38.67042 24.2975327 41.0621065 29.6009028 49.420867 33.7496668 42.4690581 39"></polygon>
+        <filter x="-11.9%" y="-15.6%" width="123.7%" height="143.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <polygon id="path-3" points="2 26 35 44.3881329 35 53.8958402 11.5304423 40.3318927 11.5304423 46.7588527 35 59.2213289 35 65.9321587 11.5304423 53.8958402 11.5304423 56.9526555 11.5304423 57.9863011 35 70.2509028 35 77 2 59.2213289"></polygon>
+        <filter x="-21.2%" y="-9.8%" width="142.4%" height="127.5%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-19.000000, -19.000000)">
+            <g id="logo" transform="translate(21.000000, 20.000000)">
+                <g id="Group">
+                    <polygon id="Path" stroke="#979797" points="0 59.5251439 36.0903964 80 69 57.5145541 32.6752047 37"></polygon>
+                    <polygon id="Path" stroke="#979797" fill="#9B9B9B" points="0 22.5251439 36.0903964 43 69 20.5145541 32.6752047 0"></polygon>
+                    <polygon id="Path-2" stroke="#979797" fill="#FFFFFF" points="0 23 0 59.5777291 37 80 37 43.4116687"></polygon>
+                    <polygon id="Path-3" stroke="#979797" fill="#4A4A4A" points="37 81 70 58.3171453 70 21 37 44.5532255"></polygon>
+                    <g id="K">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="E">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        <use fill="#4A90E2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    </g>
+                </g>
+                <text id="KUEB" font-family="Arial-Black, Arial Black" font-size="48" font-weight="700" fill="#000000">
+                    <tspan x="77.015625" y="56">KUEB</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
